@@ -1,6 +1,9 @@
 Pacote desenvolvido para tratar e organizar a Base de dados do Cadastro
 Nacional da Pessoa Jurídica (CNPJ)
 ================
+# install
+
+remotes::install_github("andresuriane/qsacnpj")
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
